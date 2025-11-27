@@ -1,4 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm MD Sohel  
+### Frontend Developer (Learning JavaScript)
+
+I'm a self-taught web developer from West Bengal.  
+I build clean, modern and responsive websites for small businesses and local shops.
+
+Currently learning: **JavaScript**, **Tailwind CSS**, and **Basic Backend (Node.js + MongoDB)**  
+My goals:  
+- Start freelancing with real clients  
+- Build modern websites  
+- Become a full-time frontend developer  
+
+---
+
+## 🔧 Skills
+
+- **HTML5 / CSS3**
+- **Responsive Web Design**
+- **JavaScript (Learning)**
+- **Tailwind CSS (Learning)**
+- **Git & GitHub**
+- **Deployment (Netlify)**
+
+---
+
+
+
+## 🚀 What I’m Working On
+- JavaScript DOM Projects  
+- A professional personal portfolio website  
+- Freelance websites for local cafés & shops  
+- Improving UI Design skills  
+
+---
+
+## 📫 Contact Me  
+- **Email:** iamsohel037@gmail.com  
+- **GitHub:** https://github.com/mdsohel-codes  
+---
+
+⭐ *Thanks for visiting my profile! Feel free to check out my projects.*
+
 
 <!--
 **mdsohel-codes/mdsohel-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
