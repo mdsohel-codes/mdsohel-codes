@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MD Sohel  
+ I'm MD Sohel  
 ### Frontend Developer (Learning JavaScript)
 
 I'm a self-taught web developer from West Bengal.  
