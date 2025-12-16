@@ -26,9 +26,9 @@ My goals:
 
 
 ## 🚀 What I’m Working On
-- JavaScript DOM Projects  
+- Learning Basic back-end
 - A professional personal portfolio website  
-- Freelance websites for local cafés & shops  
+- JavaScript DOM Projects  
 - Improving UI Design skills  
 
 ---
