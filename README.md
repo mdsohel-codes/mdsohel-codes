@@ -17,7 +17,7 @@ My goals:
 - **HTML5 / CSS3**
 - **Responsive Web Design**
 - **JavaScript (Learning)**
-- **Tailwind CSS (Learning)**
+- **Node.js (Learning)**
 - **Git & GitHub**
 - **Deployment (Netlify)**
 
