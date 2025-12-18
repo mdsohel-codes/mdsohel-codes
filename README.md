@@ -35,12 +35,15 @@ Strengthen my front-end fundamentals and grow as a web developer
 ---
 
 
+🚀 What I’m Currently Working On
 
-## 🚀 What I’m Working On
-- Learning Basic back-end
-- A professional personal portfolio website  
-- JavaScript DOM Projects  
-- Improving UI Design skills  
+Practicing HTML and CSS fundamentals, including layout and responsiveness
+
+Practicing JavaScript DOM manipulation through small interactive projects and basic node.js 
+
+Building a clean personal portfolio website to showcase my work
+
+Improving UI structure, spacing, and overall design consistency
 
 ---
 
