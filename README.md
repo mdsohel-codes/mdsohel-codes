@@ -1,15 +1,26 @@
- I'm MD Sohel  
-### Frontend Developer (Learning JavaScript)
+Hi, I’m Md Sohel
 
-I'm a self-taught web developer from West Bengal.  
-I build clean, modern and responsive websites for small businesses and local shops.
+Web Development Intern (HTML, CSS, JavaScript)
 
-Currently learning: **JavaScript**, **Tailwind CSS**, and **Basic Backend (Node.js + MongoDB)**  
-My goals:  
-- Start freelancing with real clients  
-- Build modern websites  
-- Become a full-time frontend developer  
+I’m a self-taught web development learner from West Bengal with a strong focus on building clean, responsive user interfaces using HTML, CSS, and JavaScript.
 
+I am actively practicing web development by building small projects, improving layouts, responsiveness, and basic interactivity, and maintaining my work on GitHub.
+
+Currently focusing on:
+
+HTML, CSS fundamentals and responsive design
+
+JavaScript basics (DOM manipulation, events)
+
+Version control using Git and GitHub
+
+My goals:
+
+Gain real-world experience through a web development internship
+
+Learn industry practices by working on real tasks
+
+Strengthen my front-end fundamentals and grow as a web developer
 ---
 
 ## 🔧 Skills
