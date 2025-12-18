@@ -1,6 +1,6 @@
 Hi, I’m Md Sohel
 
-Web Development Intern (HTML, CSS, JavaScript)
+### Web Development Intern (HTML, CSS, JavaScript)
 
 I’m a self-taught web development learner from West Bengal with a strong focus on building clean, responsive user interfaces using HTML, CSS, and JavaScript.
 
@@ -8,17 +8,17 @@ I am actively practicing web development by building small projects, improving l
 
 Currently focusing on:
 
-HTML, CSS fundamentals and responsive design
+- HTML, CSS fundamentals and responsive design
 
-JavaScript basics (DOM manipulation, events)
+- JavaScript basics (DOM manipulation, events)
 
-Version control using Git and GitHub
+- Version control using Git and GitHub
 
 My goals:
 
-Gain real-world experience through a web development internship
+- Gain real-world experience through a web development internship
 
-Learn industry practices by working on real tasks
+- Learn industry practices by working on real tasks
 
 Strengthen my front-end fundamentals and grow as a web developer
 ---
