@@ -31,6 +31,7 @@ Strengthen my front-end fundamentals and grow as a web developer
 - **Node.js (Learning)**
 - **Git & GitHub**
 - **Deployment (Netlify)**
+- (will add skill's like React and Python next)
 
 ---
 
