@@ -14,6 +14,8 @@ Currently focusing on:
 
 - Version control using Git and GitHub
 
+- Learning React 
+
 My goals:
 
 - Gain real-world experience through a web development internship
